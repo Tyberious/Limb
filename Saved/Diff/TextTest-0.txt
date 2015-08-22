@@ -1,0 +1,8 @@
+Begin Object Class=Material Name="Test"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   StateId=9143AA4344BF1F770951A3A7918021A4
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+End Object
